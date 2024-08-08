@@ -14,19 +14,19 @@ University of Piraeus, 11/2019 - 06/2021
 Thesis: Algorithms for Network Functions Coordination in NFV simulated environment
 
 ## Employment
-### ![Atos Logo](images/atos-logo.png) Intern, Atos IT Solutions and Services, 04/2018 - 09/2019  
+### ![Atos Logo](images/imresizer-1723112450443.jpg) Intern, Atos IT Solutions and Services, 04/2018 - 09/2019  
 - Worked as IT Support Technician, with training in Telecommunications, Unix administration, etc.
 
-### ![Atos Logo](images/atos-logo.png) Cloud Application Support Engineer, Atos IT Solutions and Services, 10/2019 - 06/2020  
+### ![Atos Logo](images/imresizer-1723112450443.jpg) Cloud Application Support Engineer, Atos IT Solutions and Services, 10/2019 - 06/2020  
 - Provided technical support for large enterprise VOIP solutions.
 
-### ![Ericsson Logo](images/ericsson-logo.png) IMS Integration Engineer, Ericsson, 07/2020 - 03/2023  
+### ![Ericsson Logo](images/imresizer-1723113015593.jpg) IMS Integration Engineer, Ericsson, 07/2020 - 03/2023  
 - Managed design, integration, and troubleshooting of Ericsson IMS products.
 
 **Military Service**, Hellenic Air Force (HAF), 05/2023 - 02/2024 
 - Obligatory military service.
 
-### ![Ericsson Logo](images/ericsson-logo.png) IMS Integration Engineer, Ericsson, 01/2024 - Present  
+### ![Ericsson Logo](images/imresizer-1723113015593.jpg) IMS Integration Engineer, Ericsson, 01/2024 - Present  
 - Managed design, integration, and troubleshooting of Ericsson IMS products.
 
 ## Skills
