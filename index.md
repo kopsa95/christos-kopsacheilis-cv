@@ -1,5 +1,7 @@
 # Christos Kopsacheilis
-[Christos Kopsacheilis](images/imresizer-1723113197305.png){: width="150" height="150" style="border-radius:50%; float:left; margin-right:15px;"}
+
+![Christos Kopsacheilis](images/imresizer-1723113197305.png){: width="150" height="150" style="border-radius:50%; float:left; margin-right:15px;"}
+
 **Email:** [christoskopsachilis@protonmail.com](mailto:christoskopsachilis@protonmail.com)  
 **Phone:** (+30) 6976501386  
 **LinkedIn:** [Christos Kopsacheilis](https://www.linkedin.com/in/christos-kopsacheilis-6b9309143/)
