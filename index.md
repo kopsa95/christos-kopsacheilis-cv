@@ -5,7 +5,8 @@
 **Email:** [christoskopsachilis@protonmail.com](mailto:christoskopsachilis@protonmail.com)  
 **Phone:** (upon request) <br>
 **LinkedIn:** [Christos Kopsacheilis](https://www.linkedin.com/in/christos-kopsacheilis-6b9309143/)
-
+<br>
+<br>
 
 ## Education
 **Bachelor of Science (BSc), Mathematics**  
