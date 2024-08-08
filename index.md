@@ -7,7 +7,8 @@
 **LinkedIn:** [Christos Kopsacheilis](https://www.linkedin.com/in/christos-kopsacheilis-6b9309143/)
 <br>
 <br>
-
+<br>
+<br>
 ## Education
 **Bachelor of Science (BSc), Mathematics**  
 National and Kapodistrian University of Athens, 01/2014 - 09/2019  
