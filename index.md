@@ -23,8 +23,11 @@ Thesis: Algorithms for Network Functions Coordination in NFV simulated environme
 **IMS Integration Engineer**, Ericsson, 07/2020 - 03/2023  
 - Managed design, integration, and troubleshooting of Ericsson IMS products.
 
-**Military Service**, Hellenic Air Force (HAF), 05/2023 - Present  
+**Military Service**, Hellenic Air Force (HAF), 05/2023 - 02/2024 
 - Obligatory military service.
+
+**IMS Integration Engineer**, Ericsson, 01/2024 - Present  
+- Managed design, integration, and troubleshooting of Ericsson IMS products.
 
 ## Skills
 - Programming Languages: Java, Python, Matlab
