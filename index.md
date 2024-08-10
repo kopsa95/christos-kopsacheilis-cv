@@ -3,7 +3,7 @@
 ![Christos Kopsacheilis](images/imresizer-1723113197305.png){: width="150" height="150" style="border-radius:50%; float:left; margin-right:15px;"}
 
 **Email:** [christoskopsachilis@protonmail.com](mailto:christoskopsachilis@protonmail.com)  
-**Phone:** (upon request) <br>
+**Phone:** (upon request) test <br>
 **LinkedIn:** [Christos Kopsacheilis](https://www.linkedin.com/in/christos-kopsacheilis-6b9309143/)
 <br>
 <br>
